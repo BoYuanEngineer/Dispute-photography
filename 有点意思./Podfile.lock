@@ -1,0 +1,41 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - KYAlertView (0.0.3)
+  - Masonry (1.0.1)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - ZFPlayer (2.1.3):
+    - Masonry
+
+DEPENDENCIES:
+  - AFNetworking
+  - KYAlertView
+  - Masonry
+  - SDWebImage
+  - ZFPlayer (~> 2.1.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  KYAlertView: 96fa439535c5cf9e4f0f2d8427031231c70b8a6e
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  ZFPlayer: 8dc82b4508fbba4ee59d0304c52e30f8b3390244
+
+PODFILE CHECKSUM: 6080383ca4432dd58e784d7abc632fd08ed2e14e
+
+COCOAPODS: 1.0.1
